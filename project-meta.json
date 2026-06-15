@@ -1,0 +1,18 @@
+{
+  "name": "T_R_Agent",
+  "description": "教研综合 Agent - Coze 工作流调用",
+  "type": "tool",
+  "status": "active",
+  "maturity": "prototype",
+  "owner": "海瀚",
+  "repository": "https://github.com/Chiang-Hai-Han/T_R_Agent",
+  "language": ["Python"],
+  "framework": "Coze SDK (cozepy)",
+  "version": "0.1.0",
+  "features": [
+    "Coze 工作流 API 调用",
+    "流式处理支持"
+  ],
+  "last_updated": "2026-05-21",
+  "license": "MIT"
+}
